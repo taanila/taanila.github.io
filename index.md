@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Etusivu
 layout: home
 nav_order: 0
 ---
