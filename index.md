@@ -8,9 +8,9 @@ nav_order: 0
 
 [Akin menetelmäblogi]
 
-[test]
-
 [pandas1]
+
+[data1]
 
 ----
 
@@ -22,4 +22,4 @@ nav_order: 0
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
 [Akin menetelmäblogi]: https://tilastoapu.wordpress.com
 [pandas1]: https://github.com/taanila/kuvaileva/blob/c90fa6973efac7f3655817cbbd0ea5b37e0994c6/pandas1.ipynb
-[test]: pandas1.ipynb
+[data1]: https://taanila.fi/data1.xlsx
